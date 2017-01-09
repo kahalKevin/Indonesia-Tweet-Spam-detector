@@ -10,7 +10,11 @@ It is then preprocessed:
   - normalized
   - ngram
 
-Trained using Random Forest classifier,
+Trained using Random Forest classifier in Python Scikit learn,
 and served as microservice using Flask.
 
 Service is consumed from java GUI using Swing.
+
+
+Disclaimer : 
+it is still not very accurate since much of the preprocessing step for Indonesia language need to be enhanced first.
